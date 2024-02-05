@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+        "target": "ES2020",
+        "allowJs": true,
+        "moduleDetection": "force",
+        "strict": true,
+        "moduleResolution": "NodeNext",
+        "module": "NodeNext",
+        "outDir": "./dist",
+        "lib": ["ES2020", "DOM"]
+    }
+}

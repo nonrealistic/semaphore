@@ -1,0 +1,15 @@
+{
+    "name": "semaphore",
+    "version": "1.0.0",
+    "author": "nonrealistic",
+    "description": "Semaphore using `async` and `await`",
+    "license": "MIT",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "prepack": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^5.3.3"
+    }
+}
